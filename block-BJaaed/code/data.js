@@ -1,18 +1,6 @@
-writeCode
+let data = {
 
-#### Follow the instructions to complete this exercise:
-
-1. You will find all the code for this exercise in the `code` folder.
-2. Write HTML, CSS and JavaScript in the respective files.
-3. Create an app like the layout given below. Find the data to create the app just below the layout.
-
-![Book List App](./assets/bookly.jpg)
-
-#### Data for the app
-
-```js
-// {
-  books: [
+     books: [
     {
       isbn: "9781593275846",
       title: "Eloquent JavaScript, Second Edition",
@@ -127,6 +115,5 @@ writeCode
         "A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM and browser patterns",
       website: "https://shichuan.github.io/javascript-patterns/",
     },
-  ]
-// };
-```
+  ],
+};
